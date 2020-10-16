@@ -1,0 +1,14 @@
+{
+    "name": "alvendra/fabeliotechtest",
+    "description": "Build 1 webpage using programming language you are proficient with based on above requirements",
+    "type": "project",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "Alvendraihza",
+            "email": "alvendraihza9@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

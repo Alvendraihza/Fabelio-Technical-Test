@@ -1,0 +1,12 @@
+main {
+  padding-bottom: 50px;
+}
+
+.card-product {
+  transition: 0.3s ease-in-out;
+}
+
+.card-product:hover {
+  box-shadow: 4px 4px 6px rgba(0,0,0,.4);
+  border: 1px solid var(--bs-primary) !important;
+}
