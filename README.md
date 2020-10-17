@@ -7,6 +7,8 @@ Build 1 webpage using PHP, PostgreSQL, Heroku Deployment
 
 Tools: PHP, PostgreSQL, Heroku (Deployment)
 
+URL heroku: https://alvendra.herokuapp.com/
+
 Case: 
 
 Budi wants to buy a Sofa 2 dudukan Vienna but it's sold out, so he decided to buy something similar with what he wanted before.
