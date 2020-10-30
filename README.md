@@ -7,7 +7,7 @@ Build 1 webpage using PHP, PostgreSQL, Heroku Deployment
 
 Tools: PHP, PostgreSQL, Heroku (Deployment)
 
-URL heroku: https://alvendra.herokuapp.com/
+Live Demo: https://alvendra.herokuapp.com/
 
 Case: 
 
